@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name":"shobha paul",
+      "email":"mommy@gmail.com",
+      "password":"mommy",
+      "id":1
+    },
+    {
+      "name":"parimal paul",
+      "email":"papa@gmail.com",
+      "password":"papa15",
+      "id":2
+    },
+    {
+      "name":"aniket",
+      "email":"rm@gmail.com",
+      "password":"fullstack",
+      "id":3
+    }
+  ]
+}
